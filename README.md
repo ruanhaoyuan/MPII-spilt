@@ -1,4 +1,4 @@
-# MPII2COCO
+# MPII-SPilt
 
 This repo aims to convert the MPII format human pose data to COCO JSON format.
 
